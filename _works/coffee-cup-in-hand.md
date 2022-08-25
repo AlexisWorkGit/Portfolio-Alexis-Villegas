@@ -1,6 +1,6 @@
 ---
-title: Coffee Cup In Hand
-category: Video
+title: ICTALK 2022 - Conference Responsive Web Site
+category: Wordpress
 category_slug: f-video
 type: video
 image: assets/img/works/work2.jpg

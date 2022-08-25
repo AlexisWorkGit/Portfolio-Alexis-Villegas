@@ -1,30 +1,30 @@
 # Sections content configuration file
-## 
+##
 ### use navigation.yml file to re-order, delete or add section of each card
 ### here you can find all content in all pre-build sections
 
 ### About [ about ]
 about:
   image: "assets/img/man2.jpg"
-  text: "<p>Hello! I’m Daniel Curry. Web designer from USA, California, San Francisco. I have rich experience in web site design and building, also I am good at wordpress. I love to talk with you about our unique.</p>"
+  text: "<p>Hi! Welcome to my personal page, I’m Alexis Villegas. Full Stack Developer. I have rich experience in web app design and building, from all of the sides; Front-End Back-End, also I am good at wordpress. I love to talk with you about my unique skills.</p>"
   list:
     - label: "Age"
-      value: "24"
+      value: "22"
 
     - label: "Residence"
-      value: "USA"
+      value: "Ecuador"
 
     - label: "Freelance"
       value: "Available"
 
     - label: "Address"
-      value: "San Francisco"
+      value: "Riobamba"
 
     - label: "Phone"
-      value: "+1 256 254 84 56"
+      value: "+593 (99) 6535731"
 
     - label: "E-mail"
-      value: "alejandroa@gmail.com"
+      value: "programmlab@outlook.es"
 
   download:
     text: "Download CV"
@@ -36,93 +36,96 @@ services:
   items:
     - icon: "fas fa-code"
       name: "Web Development"
-      text: "Modern and mobile-ready website that will help you reach all of your marketing."
+      text: "Modern and mobile-ready website with Laravel and React."
 
-    - icon: "fas fa-music"
-      name: "Music Writing"
-      text: "Music copying, writing, creating, transcription, arranging and services."
+    - icon: "fas fa-atom"
+      name: "SOLID Fundamentals and Clean Code"
+      text: "Code Refactoring, make code readable and usable for the advancement of the project."
 
     - icon: "fas fa-ad"
-      name: "Advetising"
-      text: "Advertising services include television, radio, print, mail, and web apps."
-
-    - icon: "fas fa-gamepad"
-      name: "Game Development"
-      text: "Developing memorable and unique mobile android, ios and video games."
-
-    - icon: "fas fa-camera"
-      name: "Photography"
-      text: "Our in-house photography services team made up of professional photographers."
+      name: "MERN Fundamentals"
+      text: "In the order of the continuos learning, MERN is the next step in my trajectory"
 
     - icon: "fas fa-mobile-alt"
-      name: "Android Application"
+      name: "Mobile Development"
       text: "Games, playing music, handle network transactions, interacting content etc."
-      
+
+    - icon: "fas fa-paper"
+      name: "SCRUM Fundamentals"
+      text: "Experiencie from SCRUM Master, for the manage and deploy of projects."
+
+    - icon: "fas fa-camera"
+      name: "3+ years Experience"
+      text: "Our in-house photography services team made up of professional photographers."
+
 ### Pricing [ pricing ]
-pricing:
-  title: "Pricing"
-  items:
-    - icon: "fas fa-star"
-      name: "Basic"
-      price: "39"
-      price_before: "$"
-      price_after: "hour"
-      list:
-        - value: "Web Development"
-          disable: "no"
-        - value: "Advetising"
-          disable: "no"
-        - value: "Game Development"
-          disable: "no"
-        - value: "Music Writing"
-          disable: "yes"
-        - value: "Photography"
-          disable: "yes"
-      button: "Buy Now"
-      link: "contact/"
-          
-    - icon: "fas fa-rocket"
-      name: "Premium"
-      price: "59"
-      price_before: "$"
-      price_after: "hour"
-      list:
-        - value: "Web Development"
-          disable: "no"
-        - value: "Advetising"
-          disable: "no"
-        - value: "Game Development"
-          disable: "no"
-        - value: "Music Writing"
-          disable: "no"
-        - value: "Photography"
-          disable: "no"
-      button: "Buy Now"
-      link: "contact/"
+#pricing:
+# title: "Pricing"
+#items:
+# - icon: "fas fa-star"
+## price: "39"
+#  price_before: "$"
+# price_after: "hour"
+#list:
+# - value: "Web Development"
+#  disable: "no"
+#        - value: "Advetising"
+#         disable: "no"
+#      - value: "Game Development"
+#       disable: "no"
+#    - value: "Music Writing"
+#     disable: "yes"
+#  - value: "Photography"
+#   disable: "yes"
+#    button: "Buy Now"
+#   link: "contact/"
+
+#    - icon: "fas fa-rocket"
+#     name: "Premium"
+#    price: "59"
+#   price_before: "$"
+#  price_after: "hour"
+# list:
+#  - value: "Web Development"
+#   disable: "no"
+#  - value: "Advetising"
+#     disable: "no"
+#    - value: "Game Development"
+#  disable: "no"
+# - value: "Music Writing"
+#    disable: "no"
+#   - value: "Photography"
+#      disable: "no"
+#   button: "Buy Now"
+#    link: "contact/"
 
 ### Resume [ resume ]
 resume:
   experience:
     title: "Experience"
     items:
-      - year: "2013 - Present"
-        name: "Art Director - Facebook Inc"
-        text: "Collaborate with creative and development teams on the execution of ideas."
+      - year: "2021 - Present"
+        name: "Full Stack Developer - UNACH"
+        text: "Final Work for obtaining the title of IT engineer, Salva PET system for the vet healthcare with Laravel 7."
 
-      - year: "2011 - 2012"
-        name: "Front-end Developer - Google Inc"
-        text: "Monitored technical aspects of the front-end delivery for several projects."
+      - year: "2021 - 2022"
+        name: "Wordpress Developer - UNACH"
+        text: "Development of the website for the ICTALK 2022."
 
-      - year: "2009 - 2010"
-        name: "Senior Developer - Abc Inc"
-        text: "Optimize website performance using latest technology."
-        
+      - year: "2021 February - 2021 August"
+        name: "Wordpress Developer - YUWARMI"
+        text: "Development of an invoice system and sale of endemic bags."
+
+      - year: "2020 October - 2021 February"
+        name: "Full Stack Developer - Perfect Dental"
+        text: "Development of an informational website for the company Perfect Dental with native technologies: HTML, CSS, JS, Jquery."
+
   education:
     title: "Education"
     items:
-      - year: "2006 - 2008"
-        name: "Art University of New York"
-        text: "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri"
+      - year: "2017 - 2022"
+        name: "National University of Chimborazo"
+        text: "IT engineer in Unach, Riobamba, Chimborazo"
 
       - year: "2005 - 2006"
         name: "Programming Course"
@@ -226,7 +229,7 @@ facts:
     - icon: "fas fa-headphones"
       name: "Music"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      
+
 ### Team [ team ]
 team:
   title: "Our Team"
@@ -241,7 +244,7 @@ team:
           icon: "fab fa-instagram"
         - url: "https://dribbble.com/"
           icon: "fab fa-dribbble"
-          
+
     - image: "assets/img/team/team2.jpg"
       name: "Peter Green"
       role: "Back-end Developer"
@@ -252,7 +255,7 @@ team:
           icon: "fab fa-instagram"
         - url: "https://dribbble.com/"
           icon: "fab fa-dribbble"
-          
+
 ### Testimonials [ testimonials ]
 testimonials:
   title: "Testimonials"
@@ -261,7 +264,7 @@ testimonials:
       name: "Helen Floyd"
       role: "Art Director"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      
+
     - image: "assets/img/testimonials/rev1.jpg"
       name: "Helen Floyd"
       role: "Art Director"
@@ -282,18 +285,18 @@ clients:
 
     - url: "https://www.google.com"
       image: "assets/img/clients/client4.png"
-      
+
 ### Custom Text [ text ]
 text:
   title: "Custom Text"
   text: "
-        <p>
-            Now there is more fashion. There is no so-called trends. Now chase after anything not necessary — nor for fashionable color nor the shape, nor for style. Think about the content that you want to invest in a created object, and only then will form. The thing is your spirit. A spirit unlike forms hard copy.
-        </p>
-        <p>
-            Here choose yourself like that, without any looking back, do your personal, home, small fashion, and all will be well.
-        </p>
-        "
+    <p>
+    Now there is more fashion. There is no so-called trends. Now chase after anything not necessary — nor for fashionable color nor the shape, nor for style. Think about the content that you want to invest in a created object, and only then will form. The thing is your spirit. A spirit unlike forms hard copy.
+    </p>
+    <p>
+    Here choose yourself like that, without any looking back, do your personal, home, small fashion, and all will be well.
+    </p>
+    "
 
 ### Contact Info [ contacts-info ]
 contacts_info:
@@ -304,13 +307,13 @@ contacts_info:
       value: "+ (231) 456 67 89"
 
     - label: "Email"
-      icon:  "fas fa-envelope"
+      icon: "fas fa-envelope"
       value: "<a href='mailto:steve-pearson@gmail.com'>steve-pearson@gmail.com</a>"
 
     - label: "Address"
       icon: "fas fa-map-marker-alt"
       value: "2621 W Pico Blvd, Los Angeles"
-    
+
     - label: "Freelance Available"
       icon: "fas fa-user-tie"
       value: "I am available for Freelance hire"
@@ -318,4 +321,3 @@ contacts_info:
 ### Contact Form [ contacts-form ]
 contacts_form:
   title: "Contact Form"
-

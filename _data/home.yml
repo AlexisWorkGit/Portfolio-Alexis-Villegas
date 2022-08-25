@@ -4,7 +4,7 @@
 
 ### Started Default
 started:
-  title: "Hello, I’m <strong>Alexis Villegas</strong>, Full Stack Developer in <br /> scalable web applications."
+  title: "Hello, I’m <strong>Alexis Villegas</strong>, Full Stack Developer in <br /> Scalable web applications."
   typed:
     - "Native <strong>websites</strong>"
     - "Laravel with React <strong>websites</strong>"
@@ -12,39 +12,39 @@ started:
 
 ### Started Personal
 started-personal:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, I’m <strong>Alexis Villegas</strong>, Full Stack Developer in <br /> Scalable web applications."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "Native <strong>websites</strong>"
+    - "Laravel with React <strong>websites</strong>"
+    - "React Native <strong>mobile apps</strong>"
   image: "assets/img/man.jpg"
 
 ### Started Image
 started-image:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, I’m <strong>Alexis Villegas</strong>, Full Stack Developer in <br /> Scalable web applications."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "Native <strong>websites</strong>"
+    - "Laravel with React <strong>websites</strong>"
+    - "React Native <strong>mobile apps</strong>"
   image: "assets/img/started_image_p.jpg"
 
 ### Started Video
 started-video:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, I’m <strong>Alexis Villegas</strong>, Full Stack Developer in <br /> Scalable web applications."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "Native <strong>websites</strong>"
+    - "Laravel with React <strong>websites</strong>"
+    - "React Native <strong>mobile apps</strong>"
   video: "https://youtu.be/S4L8T2kFFck"
   image: "assets/img/started_image_p.jpg"
 
 ### Started Slider
 started-slider:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, I’m <strong>Alexis Villegas</strong>, Full Stack Developer in <br /> Scalable web applications."
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "Native <strong>websites</strong>"
+    - "Laravel with React <strong>websites</strong>"
+    - "React Native <strong>mobile apps</strong>"
   images:
     - "assets/img/started_image.jpg"
     - "assets/img/started_image2.jpg"
