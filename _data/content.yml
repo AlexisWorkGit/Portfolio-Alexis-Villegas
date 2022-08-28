@@ -36,13 +36,13 @@ services:
   items:
     - icon: "fas fa-code"
       name: "Web Development"
-      text: "Modern and mobile-ready website with Laravel and React."
+      text: "Modedrn and mobile-ready website with Laravel and React."
 
     - icon: "fas fa-atom"
       name: "SOLID Fundamentals and Clean Code"
       text: "Code Refactoring, make code readable and usable for the advancement of the project."
 
-    - icon: "fas fa-ad"
+    - icon: "fas fa-atom"
       name: "MERN Fundamentals"
       text: "In the order of the continuos learning, MERN is the next step in my trajectory"
 
@@ -55,7 +55,7 @@ services:
       text: "Experiencie from SCRUM Master, for the manage and deploy of projects."
 
     - icon: "fas fa-camera"
-      name: "3+ years Experience"
+      name: "2+ years Experience"
       text: "Our in-house photography services team made up of professional photographers."
 
 ### Pricing [ pricing ]
@@ -113,12 +113,16 @@ resume:
         text: "Development of the website for the ICTALK 2022."
 
       - year: "2021 February - 2021 August"
-        name: "Wordpress Developer - YUWARMI"
+        name: "Wordpress Developer Freelance - YUWARMI"
         text: "Development of an invoice system and sale of endemic bags."
 
       - year: "2020 October - 2021 February"
-        name: "Full Stack Developer - Perfect Dental"
+        name: "Full Stack Developer - BIT Marketing"
         text: "Development of an informational website for the company Perfect Dental with native technologies: HTML, CSS, JS, Jquery."
+
+      - year: "2020 June - 2020 October"
+        name: "Wordpress Developer - BIT Marketing"
+        text: "Development of a Ecommerce web app for the company Elite commerce."
 
   education:
     title: "Education"
@@ -127,61 +131,71 @@ resume:
         name: "National University of Chimborazo"
         text: "IT engineer in Unach, Riobamba, Chimborazo"
 
-      - year: "2005 - 2006"
-        name: "Programming Course"
-        text: "Coursework - Git, WordPress, Javascript, iOS, Android."
+      - year: "2020 February - 2020 October"
+        name: "SOLID and Clean Code"
+        text: "By Fernando Herrera"
 
-      - year: "2004 - 2005"
-        name: "Web Design Course"
-        text: "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript"
+      - year: "2020 February - 2020 October"
+        name: "Front End Development Libraries"
+        text: "By FreeCodeCamp"
+
+      - year: "2020 February - 2020 October"
+        name: "JavaScript Algorithms and Data Structures"
+        text: "By FreeCodeCamp"
+
+      - year: "2020 February - 2020 October"
+        name: "Responsive Web Design"
+        text: "By FreeCodeCamp"
+
+      - year: "2020 February - 2020 October"
+        name: "Master in CSS: Responsive, SASS, Flexbox, Grid y Bootstrap"
+        text: "By Victor Robles"
+
+      - year: "2019 - 2020"
+        name: "Programming Course: Wordpress"
+        text: "Wordpress and WooCommerce - Complete Guide."
 
 ### Skills [ skills ]
 skills:
   columns:
     - type: "default" #skills progress type - default, dotted, circles, list
-      title: "Design Skills"
+      title: "Development Skills"
       items:
         - label: "Web Design"
-          value: "70" #0-100 progress in %
+          value: "82" #0-100 progress in %
 
-        - label: "Illustrations"
-          value: "90" #0-100 progress in %
+        - label: "User interface with React"
+          value: "73" #0-100 progress in %
 
-        - label: "Photoshop"
-          value: "75" #0-100 progress in %
+        - label: "Data Visualization with Node and Express"
+          value: "44" #0-100 progress in %
 
-        - label: "Graphic Design"
-          value: "80" #0-100 progress in %
+        - label: "Debugging and Refactor Code"
+          value: "77" #0-100 progress in %
 
     - type: "dotted" #skills progress type - default, dotted, circles, list
       title: "Languages Skills"
       items:
         - label: "English"
-          value: "90" #0-100 progress in %
+          value: "68" #0-100 progress in %
 
-        - label: "German"
-          value: "70" #0-100 progress in %
-
-        - label: "Italian"
-          value: "55" #0-100 progress in %
-
-        - label: "French"
-          value: "85" #0-100 progress in %
+        - label: "Spanish"
+          value: "100" #0-100 progress in %
 
     - type: "circles" #skills progress type - default, dotted, circles, list
-      title: "Coding Skills"
+      title: "Current Courses Progress"
       items:
-        - label: "WordPress"
-          value: "95" #0-100 progress in %
+        - label: "MERN"
+          value: "10" #0-100 progress in %
 
-        - label: "PHP / MYSQL"
-          value: "75" #0-100 progress in %
+        - label: "SCRUM Fundamentals"
+          value: "88" #0-100 progress in %
 
-        - label: "Angular / JavaScript"
-          value: "85" #0-100 progress in %
+        - label: "Nest"
+          value: "15" #0-100 progress in %
 
-        - label: "HTML / CSS"
-          value: "90" #0-100 progress in %
+        - label: "Advanced English"
+          value: "50" #0-100 progress in %
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
@@ -189,25 +203,25 @@ skills:
         - label: "Website hosting"
           value: "" #0-100 progress in %
 
-        - label: "iOS and android apps"
+        - label: "Debug and Refactor"
           value: "" #0-100 progress in %
 
-        - label: "Create logo design"
+        - label: "Apply SOLID and Clean Code on Projects"
           value: "" #0-100 progress in %
 
-        - label: "Design for print"
+        - label: "Design UI"
           value: "" #0-100 progress in %
 
-        - label: "Modern and mobile-ready"
+        - label: "Managing of SQL Data Bases"
           value: "" #0-100 progress in %
 
-        - label: "Advertising services include"
+        - label: "Multitenancy"
           value: "" #0-100 progress in %
 
-        - label: "Graphics and animations"
+        - label: "Notion of React Hooks and Redux"
           value: "" #0-100 progress in %
 
-        - label: "Search engine marketing"
+        - label: "SEO and performance test with web tools"
           value: "" #0-100 progress in %
 
 ### Facts [ facts ]
