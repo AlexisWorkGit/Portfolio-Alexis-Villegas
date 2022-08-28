@@ -245,60 +245,19 @@ facts:
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 ### Team [ team ]
-team:
-  title: "Our Team"
-  items:
-    - image: "assets/img/team/team1.jpg"
-      name: "Alejandro Abeyta"
-      role: "Web Developer"
-      social:
-        - url: "https://www.pinterest.com/"
-          icon: "fab fa-pinterest"
-        - url: "https://www.instagram.com/"
-          icon: "fab fa-instagram"
-        - url: "https://dribbble.com/"
-          icon: "fab fa-dribbble"
-
-    - image: "assets/img/team/team2.jpg"
-      name: "Peter Green"
-      role: "Back-end Developer"
-      social:
-        - url: "https://www.pinterest.com/"
-          icon: "fab fa-pinterest"
-        - url: "https://www.instagram.com/"
-          icon: "fab fa-instagram"
-        - url: "https://dribbble.com/"
-          icon: "fab fa-dribbble"
 
 ### Testimonials [ testimonials ]
 testimonials:
   title: "Testimonials"
   items:
-    - image: "assets/img/testimonials/rev1.jpg"
-      name: "Helen Floyd"
-      role: "Art Director"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    - name: "Brayan Ñauñay"
+      role: "CEO BIT Marketing"
+      text: "During the time in which Alexis passed through our offices, the experience was pleasant as well as professional, applying knowledge of a Full Stack with good practices and clean code."
 
     - image: "assets/img/testimonials/rev1.jpg"
       name: "Helen Floyd"
       role: "Art Director"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-
-### Clients [ clients ]
-clients:
-  title: "Clients"
-  items:
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client1.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client2.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client3.png"
-
-    - url: "https://www.google.com"
-      image: "assets/img/clients/client4.png"
 
 ### Custom Text [ text ]
 text:
