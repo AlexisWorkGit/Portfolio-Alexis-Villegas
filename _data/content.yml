@@ -42,7 +42,7 @@ services:
       name: "SOLID Fundamentals and Clean Code"
       text: "Code Refactoring, make code readable and usable for the advancement of the project."
 
-    - icon: "fas fa-atom"
+    - icon: "fa-brands fa-node"
       name: "MERN Fundamentals"
       text: "In the order of the continuos learning, MERN is the next step in my trajectory"
 
@@ -229,19 +229,15 @@ facts:
   title: "Interests"
   items:
     - icon: "fas fa-baseball-ball"
-      name: "Basketball"
+      name: "Learning about the new techonology"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
     - icon: "fas fa-campground"
-      name: "Camping"
+      name: "Work on my own projects"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
-    - icon: "fas fa-chess-knight"
-      name: "Chess"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-
-    - icon: "fas fa-headphones"
-      name: "Music"
+    - icon: "fab fa-angellist"
+      name: "Work in team and contribute with effective solutions"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 ### Team [ team ]
@@ -250,14 +246,15 @@ facts:
 testimonials:
   title: "Testimonials"
   items:
-    - name: "Brayan Ñauñay"
+    - image: "assets/img/testimonials/rev1.jpg"
+      name: "Brayan Ñauñay"
       role: "CEO BIT Marketing"
       text: "During the time in which Alexis passed through our offices, the experience was pleasant as well as professional, applying knowledge of a Full Stack with good practices and clean code."
 
     - image: "assets/img/testimonials/rev1.jpg"
-      name: "Helen Floyd"
-      role: "Art Director"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      name: "Dr. Carlos Guaño"
+      role: "CEO Perfect Dental"
+      text: "Alexis offered me services as a freelancer to be able to position my business and thus obtain higher sales, and her work was impeccable as well as the changes that were requested were in a short time and according to what I needed."
 
 ### Custom Text [ text ]
 text:
